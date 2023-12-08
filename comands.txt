@@ -1,0 +1,19 @@
+Sudo apt-get update
+Sudo apt-get install python-pip
+Sudo pip install telepot
+Sudo  python /home/pi/tele.py
+
+
+
+sudo apt-get install python3-pip
+pip3 install picamera
+
+
+
+
+
+
+
+
+
+
